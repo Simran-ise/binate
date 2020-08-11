@@ -1,0 +1,168 @@
+body{
+	background-color: #A5C9E9;
+}
+
+#maincontainer{
+	margin: 50px;
+	margin-left: 200px;
+	background-color: #ffffff;
+	padding: 20px;
+	padding-left: 20px;
+	padding-right: 0px;
+	align-self: center;
+	align-items: center;
+	box-shadow: 5px 5px 5px grey;
+}
+.navbar{
+	align-content: center;
+	color: #000000;
+}
+
+.nav{
+	color: #8B8B98;
+	align-content: center;
+	margin: 10px;
+	font-family: 'Architects Daughter';
+	
+}
+.active{
+	background-color: #4D8CA3;
+	color: white;
+	padding: 10px;
+	}
+.next-btn{
+	background-color: #5093AC;
+	color: white;
+	width: 70px;
+	height: 40px;
+	padding: 10px;
+	font-family: 'Architects Daughter';
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+}
+a:hover{
+	text-decoration: none;
+}
+.nav{
+	color: grey;
+}
+.nav:hover{
+	text-decoration: none;
+	background-color: #4D8CA3;
+	color: white;
+	padding: 10px;
+
+}
+
+h1{
+	size: 150%;
+	color: #000000;
+
+}
+.links{
+	size: 200%;
+	font-family: 'Abril Fatface';
+}
+.links:hover{
+	color: #0000FF;
+}
+
+.responsive {
+		max-width: 100%;
+        max-height: 100%;
+        display: block; 
+}
+
+.thumbnail:hover{
+	opacity: 0.7;
+	box-shadow: 5px 5px 5px grey;
+}
+
+.thumbnailnew{
+	box-shadow: 5px 5px 5px grey;
+	height: 300px;
+}
+
+.text-block1 {
+  position: absolute;
+  bottom: 200px;
+  right: 100px;
+  background-color: black;
+  color: white;
+   padding-left: 10px;
+  padding-right: 10px;
+  height: 30px;
+  
+}
+.text-block2 {
+  position: absolute;
+  bottom: 165px;
+  right: 90px;
+  background-color: black;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 30px;
+ 
+}
+
+.text-block3 {
+  position: absolute;
+  bottom: 130px;
+  right: 70px;
+  background-color: black;
+  color: white;
+   padding-left: 10px;
+  padding-right: 10px;
+  height: 30px;
+}
+
+.our-cases{
+	background-color: #98AAB4;
+	margin-right: 10px;
+}
+.mail{
+	background-color: #515E66;
+	margin-right: 10px;
+}
+
+.carousel-inner { 
+     height: 500px;
+     width: 900px;
+  }
+
+  .carousel-item  { 
+     height: 400px;
+     width: 500px;
+     margin-left: 300px;
+  }
+
+  .carousel-item img{
+     height: 100%;
+     width: 100%;
+     background-repeat: no-repeat;
+     background-attachment: fixed !important;
+     background-size: cover !important;   
+     background-position: center !important;
+    }
+   
+ 
+
+#footer{
+	margin-top: 10px;
+	padding-top: 20px;
+	color: grey;
+	align-content: center;
+}
+
+.carousel-control-prev-icon{
+	width: 100px;
+	height: 1000px;
+}
+.carousel-control-next-icon{
+	width: 100px;
+	height: 1000px;
+}
